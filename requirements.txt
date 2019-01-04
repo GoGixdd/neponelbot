@@ -13,5 +13,3 @@ psutil==5.4.8
 requests==2.21.0
 urllib3==1.24.1
 websockets==3.4
-win32core==221.36
-win32gui==221.6
