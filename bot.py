@@ -7,8 +7,6 @@ import time, threading
 
 DISCORD_BOT_TOKEN = 'NDcwNjkwNjMzODI1MjU1NDI0.DxEEZw.wijI1jIlACy1q1cX0kNzsaNcr4k'
 
-BTC_PRICE_URL_coinmarketcap = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/?convert=RUB'
-
 client = discord.Client()
 @client.event
 async def on_ready():
