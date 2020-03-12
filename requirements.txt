@@ -9,7 +9,7 @@ discord.py==0.16.12
 idna==2.8
 memory-tools==1.0.5
 multidict==4.5.2
-psutil==5.4.8
+psutil==5.6.6
 requests==2.21.0
 urllib3==1.24.1
 websockets==3.4
