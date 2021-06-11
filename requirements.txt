@@ -12,4 +12,4 @@ multidict==4.5.2
 psutil==5.4.8
 requests==2.21.0
 urllib3==1.24.1
-websockets==3.4
+websockets==9.1
